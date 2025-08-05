@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tienda Pokémon TCG</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="lib/toastify.css" />
+</head>
+<body>
+  <header>
+    <h1>Tienda Pokémon TCG</h1>
+    <div id="cart-icon">Carrito: <span id="cart-count">0</span></div>
+  </header>
+
+  <section id="controls">
+    <input id="search" type="text" placeholder="Buscar carta..." />
+    <select id="filter-type">
+      <option value="All">Todos los tipos</option>
+    </select>
+  </section>
+
+  <main>
+    <div id="cards-container"></div>
+  </main>
+
+
+<!-- Area de checkout -->
+
+  <section id="checkout-modal">
+  <h2>Resumen de Compra</h2>
+
+  <div id="checkout-summary"></div>
+
+  <button id="finish-purchase">Finalizar compra</button>
+
+  <p id="purchase-confirmation" class="hidden" >
+    ¡Compra confirmada! Gracias por tu preferencia.
+  </p>
+</section>
+
+<!--Cierre-->
+
+<script src="lib/toastify.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

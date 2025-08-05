@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu V",
+    "type": "Electric",
+    "price": 350,
+    "image": "assets/imagenes/pikachu-v.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Charizard V",
+    "type": "Fire",
+    "price": 500,
+    "image": "assets/imagenes/charizard-v.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Blastoise V",
+    "type": "Water",
+    "price": 450,
+    "image": "assets/imagenes/blastoise-v.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mewtwo V",
+    "type": "Psychic",
+    "price": 600,
+    "image": "assets/imagenes/mewtwo-v.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gengar V",
+    "type": "Ghost",
+    "price": 400,
+    "image": "assets/imagenes/gengar-v.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lucario V",
+    "type": "Fighting",
+    "price": 380,
+    "image": "assets/imagenes/lucario-v.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Eevee V",
+    "type": "Colorless",
+    "price": 300,
+    "image": "assets/imagenes/eevee-v.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Snorlax V",
+    "type": "Colorless",
+    "price": 420,
+    "image": "assets/imagenes/snorlax-v.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dragonite V",
+    "type": "Dragon",
+    "price": 550,
+    "image": "assets/imagenes/dragonite-v.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gardevoir V",
+    "type": "Psychic",
+    "price": 480,
+    "image": "assets/imagenes/gardevoir-v.jpg"
+  }
+
+]
